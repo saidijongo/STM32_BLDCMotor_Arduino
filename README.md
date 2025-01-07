@@ -4,3 +4,6 @@ https://e2e.ti.com/support/motor-drivers-group/motor-drivers/f/motor-drivers-for
 
 ![image](https://github.com/user-attachments/assets/e1677483-23ee-41fa-97e5-75693ea11ff8)
 
+Uno power
+https://cyberblogspot.com/arduino-power-supply-schematic/
+
